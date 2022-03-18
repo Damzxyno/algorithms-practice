@@ -6,6 +6,7 @@ import lombok.ToString;
  * An automated Linked list generator.
  * This class generates a linked list from parameters passed into its constructor.
  * Created by @damzxyno.
+ * Thurs-17-March-2022
  * @param <T>
  */
 
